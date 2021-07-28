@@ -16,7 +16,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Uzizkp&show_icons=true&theme=gotham" width="50%"  height="200" alt="Uzizkp" />
-<a href="https://www.buymeacoffee.com/zkpeace" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Book" width="150" ></a>
+<a href="https://www.buymeacoffee.com/zkpeace" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Book" width="100" ></a>
 
 
 
